@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+/* this box */
+.container{
+    border: 5px solid brown;
+    color:maroon;
+    background-color: peachpuff;
+    width: 100px;
+    height:100px;
+}
+h1{
+}
